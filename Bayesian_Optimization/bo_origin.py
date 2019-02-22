@@ -45,4 +45,4 @@ optimizer.maximize(
     n_iter=4,
 )
 
-print(optimizer.max)
+print(optimizer.max['params'])
