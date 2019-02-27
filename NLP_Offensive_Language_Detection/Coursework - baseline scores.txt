@@ -1,0 +1,19 @@
+Task A
+SYSTEM			Macro F1	Accuracy
+All NOT baseline	0.4189	0.7209
+All OFF baseline	0.2182	0.279
+
+
+Task B
+SYSTEM			Macro F1	Accuracy
+All TIN baseline	0.4702	0.8875
+All UNT baseline	0.1011	0.1125
+
+
+Task C
+SYSTEM			Macro F1	Accuracy
+All GRP baseline	0.1787	0.3662
+All IND baseline	0.213	0.4695
+All OTH baseline	0.0941	0.1643
+
+

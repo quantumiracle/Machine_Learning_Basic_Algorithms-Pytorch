@@ -1,0 +1,27 @@
+Emoji https://stackoverflow.com/questions/43146528/how-to-extract-all-the-emojis-from-text
+
+RNN different length of sentences.
+steps:
+1. data pre processing(word embedding)(词干提取)
+2. Word embedding to sentence matrix. (Use pytorch nn.)
+3. 统一输入（CNN：三维；index输入: 两维）
+
+
+problems:
+1. different sentences have different lengths(different matrix size)
+    solution1: project all the matrix to vector with same size.
+    solution2: RNN, LSTM and transformer.
+
+2. test set have the words not seen in training set
+
+3. how to use offensive library
+
+
+Further:
+1. 同义词转换
+
+have done:
+remove dropout.
+remove punctuation
+to lower; to stem;
+
