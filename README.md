@@ -15,3 +15,5 @@ Bayesian Optimization for Neural Network hyperparameters searching;
 
 Convolutional Autoencoder (CAE) and Deep Convolutional GAN (DCGAN);
 
+Metropolis-Hastings Sampling, Gibbs Sampling;
+
