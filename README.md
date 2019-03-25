@@ -9,7 +9,7 @@ Pytorch based codes. Implementations of most popular algorithms at present.
 
 `./Audio_processing_RNN_GRU_LSTM`: RNN, GRU, LSTM for autio signal processing;
 
-## Generative model:
+## Generative Model:
 
 `./AE_VAE_CAE_CVAE`: Autoencoder (AE), Convolutional Autoencoder (CAE);
 
@@ -24,7 +24,7 @@ Pytorch based codes. Implementations of most popular algorithms at present.
 `./Bayesian_Optimization`: Bayesian Optimization for Neural Network hyperparameters searching;
 
 ## Sampling: 
-`./Sampling`: Metropolis-Hastings Sampling, Gibbs Sampling; --
+`./Sampling`: Metropolis-Hastings Sampling, Gibbs Sampling; 
 
 ## NLP for Offensive Language Detection:
 `./NLP_Offensive_Language_Detection`
