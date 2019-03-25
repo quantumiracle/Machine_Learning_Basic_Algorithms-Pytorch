@@ -1,19 +1,33 @@
 # Machine Learning Basics
-Pytorch based codes.
-## Contains:
-Gaussian Process;
+Pytorch based codes. Implementations of most popular algorithms at present.
+## Basic Neural Networks:
+`./MultinomialLogisticRegression_NeuralNetwork`: Neural Network with L1 and L2 penalty;
 
-Logistic Regression;
+`./MultinomialLogisticRegression_NeuralNetwork`: Logistic Regression;
 
-Neural Network with L1 and L2 penalty;
+`./Resnet_CNN`: Resnet, CNN forward implementation from scratch;
 
-Random Forests, Decision Tree, Adaboosting;
+`./Audio_processing_RNN_GRU_LSTM`: RNN, GRU, LSTM for autio signal processing;
 
-Resnet, CNN forward from scratch;
+## Generative model:
 
-Bayesian Optimization for Neural Network hyperparameters searching;
+`./AE_VAE_CAE_CVAE`: Autoencoder (AE), Convolutional Autoencoder (CAE);
 
-Convolutional Autoencoder (CAE) and Deep Convolutional GAN (DCGAN);
+`./AE_VAE_CAE_CVAE`: Variational Autoencoder (VAE), Convolutional Variational Autoencoder (CVAE);
 
-Metropolis-Hastings Sampling, Gibbs Sampling;
+`./CAE_CGAN`: Deep Convolutional GAN (DCGAN);
 
+
+## Gaussian Process:
+`./GaussianProcess`: Gaussian Process;
+
+`./Bayesian_Optimization`: Bayesian Optimization for Neural Network hyperparameters searching;
+
+## Sampling: 
+`./Sampling`: Metropolis-Hastings Sampling, Gibbs Sampling; --
+
+## NLP for Offensive Language Detection:
+`./NLP_Offensive_Language_Detection`
+
+## Others:
+`./Forests_Boosting`: Random Forests, Decision Tree, Adaboosting; 
